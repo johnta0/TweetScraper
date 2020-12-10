@@ -1,4 +1,4 @@
-# Introduction #
+<!-- # Introduction #
 `TweetScraper` can get tweets from [Twitter Search](https://twitter.com/explore). 
 It is built on [Scrapy](http://scrapy.org/) without using [Twitter's APIs](https://dev.twitter.com/rest/public).
 The crawled data is not as *clean* as the one obtained by the APIs, but the benefits are you can get rid of the API's rate limits and restrictions. Ideally, you can get all the data from Twitter Search.
@@ -41,4 +41,4 @@ Keeping the crawler up to date requires continuous efforts, please support our w
 
 
 # License #
-TweetScraper is released under the [GNU GENERAL PUBLIC LICENSE, Version 2](https://github.com/jonbakerfish/TweetScraper/blob/master/LICENSE)
+TweetScraper is released under the [GNU GENERAL PUBLIC LICENSE, Version 2](https://github.com/jonbakerfish/TweetScraper/blob/master/LICENSE) -->
