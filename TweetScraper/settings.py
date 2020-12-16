@@ -23,7 +23,7 @@ SELENIUM_DRIVER_NAME = 'chrome'
 # SELENIUM_DRIVER_EXECUTABLE_PATH = './venv/lib/python3.7/site-packages/chromedriver_binary/chromedriver'
 SELENIUM_DRIVER_EXECUTABLE_PATH = which('chromedriver')
 # SELENIUM_BROWSER_EXECUTABLE_PATH = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' # MacOS
-SELENIUM_DRIVER_ARGUMENTS= []#['--headless']
+SELENIUM_DRIVER_ARGUMENTS= ['--headless']
 DOWNLOADER_MIDDLEWARES = {
     'scrapy_selenium.SeleniumMiddleware': 800
 }
